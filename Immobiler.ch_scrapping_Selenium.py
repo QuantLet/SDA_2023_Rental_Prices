@@ -24,7 +24,7 @@ import pandas as pd
 # Load the webpage
 base_url = "https://www.immobilier.ch/en/rent/apartment-house/zurich/page-"
 
-# Set up the ChromeDriver
+# Set up the ChromeDriver (for Window)
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument("--headless")  # Run Chrome in headless mode (without GUI)
 driver_path = "C:/Users/Quentin/OneDrive/Studies/HSG/3rd semester/Smart Data Analytics/Project/chromedriver-win64/chromedriver.exe"  # Update this with the path to your chromedriver executable
