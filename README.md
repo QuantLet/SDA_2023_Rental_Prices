@@ -2,11 +2,11 @@
 
 ## HSG, Fall 2023 - Group 1 project
 
-Welcome to our Quantlet named "**Predicive analytics for rental prices using diverse machine learning methods: Zurich case study**"
+Welcome to our Quantlet named "**Predictive Analytics for Rental Prices: Zurich Case Study**"
 
-The project intented to extract and clean web data from the homelisting website Immobilier.ch for the region of Zurich. In addition, shapefiles from open source Zurich Stadt that allows to leverage spatial data and create more covariate to perform predicive analysis.
+The project intended to extract and clean web data from Immobilier.ch for the region of Zurich. In addition, shapefiles from open-source Zurich Stadt allow us to leverage spatial data and create more covariates to perform predictive analysis.
 
-Please follow those instruction to reproduce our results:
+Please ensure that you download all the files within this folder before executing the code and follow the instructions below to reproduce our results:
 
 0) Download the files on your machines
    Make sure to extract zip files. In particular, merge the content of "ZH canton part 1" and "ZH canton part 2" into a single folder called "ZH canton"
@@ -20,7 +20,7 @@ Please follow those instruction to reproduce our results:
    Keep in mind that Nominatim API doesn't allow to perform more than 1 request per second (don't touch the time.sleep(1))
    Make sure to remove the comment mark (#) on lines 40, 119 and 142 to save your datasets.
 
-4) Run Final_Group_1
+4) Download both Final_Project_Group_1 and Final_Project_Group_1_Functions to obtain Exploratory Data Analysis (EDA), Word Cloud, and Predictive models.
 
-Feel free to consulte quantinar.com to learn more about the technics used.
-Have fun !
+Feel free to consult quantinar.com to learn more about the techniques used.
+Have fun!
