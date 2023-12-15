@@ -1,10 +1,10 @@
-Name of QuantLet : 'SDA_Rental_Prices'
+Name of QuantLet : '20231215 Predictive Analytics for Rental Prices: Zurich Case Study'
 
-Published in : 'mmooklek'
+Published in : 'SDA_Rental_Prices'
 
-Description : 'To scrap and analyze real estate rental prices in Zurich'
+Description : 'To scrap and analyze real estate rental prices in Zurich using diverse machine learning techniques'
 
-Keywords : 'mmooklek, SDA_Rental_Prices'
+Keywords : 'Rental Prices, Machine Learning, Spatial Analysis'
 
 Author : 'Jidapa Longthaisong & Quentin Leoni'
 
