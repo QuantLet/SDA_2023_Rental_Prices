@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 25 10:43:06 2023
-@author: Quentin
-"""
 ###############################################################################
 ### HSG - Fall semester 2023
 ## Smart Data Analytics
