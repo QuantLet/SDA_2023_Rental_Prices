@@ -1,14 +1,9 @@
-"""
-Smart Data Analytics
+###############################################################################
+### HSG - Fall semester 2023
+## Smart Data Analytics
+# Project - Quentin Leoni & Jidapa Lengthaisong
 
-Fall Semester 2023.
-
-University of St. Gallen.
-
-Jidapa Lengthaisong (22-601-355) and Quentin Leoni (19-406-560)
-
-"""
-
+###############################################################################
 # import modules here
 import os
 import sys
