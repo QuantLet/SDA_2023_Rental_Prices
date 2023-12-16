@@ -4,7 +4,7 @@ Published in : 'SDA_Rental_Prices'
 
 Description : 'To scrap and analyze real estate rental prices in Zurich using diverse machine learning techniques'
 
-Keywords : 'Rental Prices, Machine Learning, Spatial Analysis'
+Keywords : 'Rental Prices, Prediction, Machine Learning techniques, Spatial Analysis, Word Cloud'
 
 Author : 'Jidapa Longthaisong & Quentin Leoni'
 
