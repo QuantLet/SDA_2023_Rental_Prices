@@ -1,4 +1,4 @@
-Name of QuantLet : '20231215 Predictive Analytics for Rental Prices: Zurich Case Study'
+Name of QuantLet : 'SDA_2023_Rental_Prices'
 
 Published in : 'SDA_Rental_Prices'
 
