@@ -2,14 +2,10 @@ Name of QuantLet : '20231215 Predictive Analytics for Rental Prices: Zurich Case
 
 Published in : 'SDA_Rental_Prices'
 
-Description : 'To scrap and analyze real estate rental prices in Zurich using diverse machine learning techniques'
+Description : 'To scrap and analyze real estate rental prices in Zurich using diverse machine learning techniques. Data on housing advertisements from https://www.immobilier.ch, combined with spatial data from https://data.stadt-zuerich.ch/. Creation of spatial maps, evaluation of predictive model performance through diverse machine learning techniques, and analysis of variable importance'
 
 Keywords : 'Rental Prices, Prediction, Machine Learning techniques, Spatial Analysis, Word Cloud, Selenium'
 
 Author : 'Jidapa Longthaisong & Quentin Leoni'
 
 Submitted : Fri, Dec 15 2023
-
-Input: 'Data on housing advertisements from https://www.immobilier.ch, combined with spatial data from https://data.stadt-zuerich.ch/'
-
-Output: 'Creation of spatial maps, evaluation of predictive model performance through diverse machine learning techniques, and analysis of variable importance'
